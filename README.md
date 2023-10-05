@@ -1,4 +1,4 @@
-# Stock Market Kafka Real-Time Data Engineering Project
+# Stock Market Kafka Data Engineering Project
 
 #NOTE: This is not Real-time Data but you can you Real-Time data by getting API.
 
