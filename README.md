@@ -1,4 +1,6 @@
-# Stock Market Kafka Real Time Data Engineering Project
+# Stock Market Kafka Real-Time Data Engineering Project
+
+#NOTE: This is not Real-time Data but you can you Real-Time data by getting API.
 
 ## Introduction 
 In this project, you will execute an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
@@ -20,11 +22,4 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 
 ## Dataset Used
-You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
-
-Here is the dataset used in the video - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
-
-
-## Complete Video Tutorial 
-
-Video Link - https://www.youtube.com/embed/KerNf0NANMo
+You can you any data I have used Free data CSV files because I don't have money to pay Paid API for stock Data 😂
